@@ -10,4 +10,4 @@ How to use Riverpod & Freezed to build a Calculator Flutter App
 
 
 
-| <a href="https://youtu.be/Cp1dNUc6Tag" target="_blank"><img src="preview.gif" width="350"></a> 
+ <a href="https://youtu.be/Cp1dNUc6Tag" target="_blank"><img src="preview.gif" width="350"></a> 
