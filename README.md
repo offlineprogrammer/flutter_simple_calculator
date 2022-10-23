@@ -1,16 +1,13 @@
-# flutter_simple_calculator
+# A Simple Calculator Flutter App
 
-A new Flutter project.
+[![HitCount](https://hits.dwyl.com/offlineprogrammer/flutter_simple_calculator.svg?style=flat-square&show=unique)](http://hits.dwyl.com/offlineprogrammer/flutter_simple_calculator)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZr0c9Ooo_6oDoLpOS7rD-g?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_Mo_Malaka_?style=social)
 
-## Getting Started
+How to use Riverpod & Freezed to build a Calculator Flutter App 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+| <a href="https://youtu.be/Cp1dNUc6Tag" target="_blank"><img src="preview.gif" width="350"></a> 
